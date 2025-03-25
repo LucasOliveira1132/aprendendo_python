@@ -11,3 +11,4 @@ print(f'{n1}x8={n1*8}')
 print(f'{n1}x9={n1*9}')
 print(f'{n1}x10={n1*10}')
 print('='*20)
+#Tabuada
