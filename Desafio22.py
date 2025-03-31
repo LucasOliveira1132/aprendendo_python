@@ -10,4 +10,5 @@ print(f'Quantas Letras em seu nome: {len(frase.replace(" ", ""))}')
 primeiro_numero = frase.split()
 print(f'Quantas Letras tem o seu primeiro nome: {len(primeiro_numero[0])}')
 
+
 #Analisador de Textos
