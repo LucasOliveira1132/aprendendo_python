@@ -11,3 +11,4 @@ elif imc <= 40:
     print(f'Seu IMC é {imc:.2f}, Você está Obeso')
 else:
     print(f'Seu IMC é {imc:.2f}, Você está na Obesidade Mórbida')
+#Índice de Massa Corporal
